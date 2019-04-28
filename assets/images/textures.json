@@ -1,0 +1,136 @@
+{"frames": {
+
+"planet": {
+	"frame": {"x":48,"y":22,"w":264,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":264},
+	"sourceSize": {"w":264,"h":264},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid01": {
+	"frame": {"x":394,"y":45,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid02": {
+	"frame": {"x":483,"y":84,"w":68,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":68},
+	"sourceSize": {"w":68,"h":68},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid03": {
+	"frame": {"x":413,"y":149,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid04": {
+	"frame": {"x":522,"y":198,"w":56,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":56},
+	"sourceSize": {"w":56,"h":56},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid05": {
+	"frame": {"x":566,"y":150,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid06": {
+	"frame": {"x":596,"y":76,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid07": {
+	"frame": {"x":652,"y":8,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid08": {
+	"frame": {"x":677,"y":75,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
+	"sourceSize": {"w":72,"h":72},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"asteroid09": {
+	"frame": {"x":634,"y":176,"w":56,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":56},
+	"sourceSize": {"w":56,"h":56},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"explosion01": {
+	"frame": {"x":382,"y":328,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"explosion02": {
+	"frame": {"x":468,"y":319,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"explosion03": {
+	"frame": {"x":604,"y":308,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":142},
+	"sourceSize": {"w":142,"h":142},
+	"anchor": {"x":0.5,"y":0.5}
+},
+
+"dna": {
+	"frame": {"x":82,"y":322,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"anchor": {"x":0.5,"y":0.5}
+}
+
+}, "meta": {
+	"version": "1.0",
+	"image": "textures.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":600},
+	"scale": "1"
+}}
+

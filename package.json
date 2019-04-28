@@ -1,0 +1,36 @@
+{
+  "name": "ldjam44",
+  "version": "1.0.0",
+  "description": "My entry for the 44th ludum dare game jam",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf build",
+    "build": "babel src -d build",
+    "watch": "babel src -d build -w",
+    "serve": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlambein/ldjam44.git"
+  },
+  "keywords": [
+    "ludum dare",
+    "game jam",
+    "game"
+  ],
+  "author": "Xavier Lambein <xlambein@gmail.com> (https://lambein.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xlambein/ldjam44/issues"
+  },
+  "homepage": "https://github.com/xlambein/ldjam44#readme",
+  "dependencies": {
+    "pixi.js": "^4.8.7"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "http-server": "^0.11.1"
+  }
+}
