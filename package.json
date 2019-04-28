@@ -7,7 +7,8 @@
     "clean": "rm -rf build",
     "build": "babel src -d build",
     "watch": "babel src -d build -w",
-    "serve": "http-server"
+    "serve": "http-server",
+		"zip": "npm run build && zip -r biomass.zip index.html build assets"
   },
   "repository": {
     "type": "git",

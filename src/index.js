@@ -36,7 +36,7 @@ app.view.ontouchstart = fullscreenize;
 app.stop();
 
 PIXI.loader
-	.add('atlas', '../assets/images/textures.json')
+	.add('atlas', 'assets/images/textures.json')
 	.load(setup);
 
 let planet;
